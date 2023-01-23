@@ -6,7 +6,7 @@ html, body {
 }
   
 body {
-    background-image: linear-gradient(rgb(251, 200, 15),rgb(162, 12, 227));  
+    background-image: linear-gradient(to right,rgb(251, 200, 15),rgb(162, 12, 227));  
 } 
 .heading {
   text-align: center;
